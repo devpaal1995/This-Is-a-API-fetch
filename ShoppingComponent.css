@@ -1,0 +1,11 @@
+.card-header {
+    height: 135px;
+
+}
+.card {
+   width: 200px; 
+}
+.catalog {
+    height: 500px;
+    overflow: auto;
+}
